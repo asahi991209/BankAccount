@@ -15,7 +15,7 @@ public class BankAccount {
 
 
     public BankAccount(double initialBalance, float initialRate){
-        //test
+        //test 234
         balance = initialBalance;
         interestRate = initialRate;
         accountID = nextID;
